@@ -26,6 +26,12 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 ### A. Akademik & Pembelajaran 📚
 <!-- START MENAMBAHKAN DI SINI -->
 
+* **Nama Fitur:** Integrasi Sistem E-Learning pada SuperApp
+* **Deskripsi Singkat:** Fitur ini mengintegrasikan sistem E-Learning pada satu SuperApp agar tidak terdapat sistem yang berbeda-beda untuk fungsi yang sama yaitu e-learning.
+* **Target Pengguna Utama:** Mahasiswa DTETI dan Dosen Pengajar
+* **Value Proposition:** Meningkatkan konsistensi sistem E-Learning yang digunakan dan memudahkan mahasiswa maupun dosen dalam mengakses sistem e-learning.
+* **Diajukan oleh:** Daniel Anantadhirya Adyawisesa Linan - 492989
+
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### B. Navigasi & Informasi Kampus 🗺️
